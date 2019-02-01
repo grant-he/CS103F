@@ -1,10 +1,10 @@
-# CS103F Spring 2019: The Fantastic Four
+# CS103F Spring 2019: The Three of Four
 
 
 ## About
 
 
-![The Fantastic Four Group Photo](CS103F/Group 4 (300x300).png)
+![The Three of Four Group Photo](https://github.com/grant-he/CS103F/Group 4 (300x300).png)
 
 
 This website is effectively the repository for the blog posts of The Three of Four (A.K.A. Group Four) for [CS 103F: Ethical Foundations](https://www.cs.utexas.edu/~ans/classes/cs103f/).
