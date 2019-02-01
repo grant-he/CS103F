@@ -4,7 +4,10 @@
 ## About
 
 
-![The Three of Four Group Photo](https://github.com/grant-he/CS103F/blob/master/Group%204%20(300x300).png) *From left to right, the photo shows Shray Mittal, Shailen Patel, and Grant He.* 
+![The Three of Four Group Photo](https://raw.githubusercontent.com/grant-he/CS103F/master/Images/GroupFourPhoto_Compressed.png)
+
+
+###### *From left to right, the photo shows Shray Mittal, Shailen Patel, and Grant He.* 
 
 
 This website is effectively the repository for the blog posts of The Three of Four (A.K.A. Group Four) for [CS 103F: Ethical Foundations](https://www.cs.utexas.edu/~ans/classes/cs103f/).
