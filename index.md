@@ -17,15 +17,17 @@ The Three of Four comprises of [Grant He](https://github.com/grant-he/), [Shaile
 
 ## The Blog
 
+### Blog Post #3
+
+Coming Soon (February 8, 2019)
+
 ### Blog Post #2
 
+##### February 1, 2019
 
 ![The Three of Four Group Photo](https://raw.githubusercontent.com/grant-he/CS103F/master/Images/GroupFourPhoto_Compressed.png)
 
-
 ###### *From left to right, the photo shows Shray Mittal, Shailen Patel, and Grant He.* 
-
-
 
 The delimitation between sexual acts under consent and those not is situationally dependent enough that a strict, broad brush wouldn’t properly take into consideration the complex array of implicit factors that affect the dynamics of an act. Recently, the #MeToo movement has brought in a wave of heightened attention to this issue, so it is seems more essential than ever for hard-and-fast sexual consent laws to be established. However, it is inherently difficult to ensure sexual consent is given, as conflicting words and actions can be perceived inconsistently by different people in the diverse modern society. Our group believes that only explicit consent (i.e. the question is asked, and an enthusiastic verbal affirmation is given) should count as consent, contrary to RAINN’s assertion that positive physical cues are enough. [1] This definition still runs into issues of power imbalances, as when someone tries to resist sexual advances from their boss and is pressured into saying “yes” out of fear of repercussions in his or her career. [2]
 
