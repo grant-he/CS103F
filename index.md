@@ -21,6 +21,12 @@ Salutations! We are Three of Four, originally known as Group Four. In the follow
 
 ### Blog Post #4
 
+##### February 15, 2019
+
+![2/15/2019 Photo](https://raw.githubusercontent.com/grant-he/CS103F/master/Images/Blog_Post_4_Compressed.png)
+
+###### *From left to right, the photo shows Shray Mittal, Grant He, and Shailen Patel.* 
+
 ###### Coming Soon! (February 15, 2019)
 
 ### Blog Post #3
