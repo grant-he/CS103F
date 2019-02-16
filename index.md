@@ -31,7 +31,7 @@ The recent string of female voices that shed light on the misogynistic cultures 
 
 Employees often look to management to gauge what behavior is acceptable, so its systemic neglect can naturally court a substantial number of unaffected male employees to allow such a toxic work environment to fester. The invariable exoneration of these “high performing” individuals paves the way for their continued ascension up the corporate ladder—thereby cultivating more influence in the company and its culture whilst deteriorating it as well. [2] [3] Our group believes that bystander employees acting under a duty-based framework have an ethical responsibility to report misconduct and harassment to human resources, although we also realize that under a consequentialist framework there may be hesitation from a lack of individual impact. From the perspective of the victims, such efforts surely will be appreciated but may ultimately make little or no difference.
 
-Additionally, our group suggests that making these incidents public can put a lot of pressure on shareholders, forcing them to keep company leadership accountable to their actions, as was the case with the resignation of Travis Kalanick. [4] As more female employees come forward with credible accusations of sexism in the workplace, they raise a great deal of awareness for the issue in the tech industry. Companies may be more perceptive of the issue and make attempts to prevent sexism in the workplace in the future. Ideally, this will lead to more company-wide discussions about the issue and a change in employee attitude. On the other hand, fewer women may pursue a job at a technology company because of these incidents. Women currently in tech may feel more isolated and the toxic behavior toward female employees may increase.
+Additionally, our group suggests that making these incidents public can put a lot of pressure on shareholders, forcing them to keep company leadership accountable to their actions, as was the case with the resignation of Travis Kalanick. [4] As more female employees come forward with credible accusations of sexism in the workplace, they raise a great deal of awareness for the issue in the tech industry. Companies may be more perceptive of the issue and make attempts to prevent sexism in the workplace in the future. Ideally, this will lead to more company-wide discussions about the issue and affect a change in employee attitude. On the other hand, fewer women may pursue a job at a technology company because of these incidents. Women currently in tech may feel more isolated and the toxic behavior toward female employees may increase.
 
 
 ###### [1]  Wilheim, Alex, and Tsotsis, Alexia. Julie Ann Hovarth Describes Sexism and Intimidation Behind her GitHub Exit, TechCrunch, March 15, 2014.
@@ -40,7 +40,7 @@ Additionally, our group suggests that making these incidents public can put a lo
 
 ###### [3]  Vertino, Amy. I am an Uber Survivor, Medium, February 24, 2017.
 
-###### [4]  https://www.nytimes.com/2017/06/21/technology/uber-ceo-travis-kalanick.html
+###### [4]  Isaac, Mike. “Uber Founder Travis Kalanick Resigns as C.E.O.” New York Times. June 21, 2017.
 
 ### Blog Post #3
 
