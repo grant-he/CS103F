@@ -27,7 +27,20 @@ Salutations! We are Three of Four, originally known as Group Four. In the follow
 
 ###### *From left to right, the photo shows Shray Mittal, Grant He, and Shailen Patel.* 
 
-###### Coming Soon! (February 15, 2019)
+The recent string of female voices that shed light on the misogynistic cultures at the GitHub and Uber workplaces reveal that these unwelcoming environments often stem from the corrupting influence of founders and executive officers, specifically through their gravely egregious actions and enabling negligence. A rather uncomfortable narrative was detailed by Julie Ann Hovarth in her interview with TechCrunch, to whom she described several tense interactions with one of the co-founders of GitHub and his wife. [1] Furthermore, Hovarth alleged that throughout her last few months at GitHub, she was bullied into leaving and faced constant harassment—particularly from the co-founder’s wife. Hovarth dutifully reported the misconduct to human resources, but found that the department was either unwilling or unable to help her. A similar pattern has been said about the environment at Uber, in which the harassment from “high performing” employees were chiefly protected by the former-CEO Travis Kalanick. The culture is rooted in the highest levels of management. If these figures are tolerant of sexism and harassment, it can be difficult to hold them—and other misbehaving employees—accountable for their actions.
+
+Employees often look to management to gauge what behavior is acceptable, so its systemic neglect can naturally court a substantial number of unaffected male employees to allow such a toxic work environment to fester. The invariable exoneration of these “high performing” individuals paves the way for their continued ascension up the corporate ladder—thereby cultivating more influence in the company and its culture whilst deteriorating it as well. [2] [3] Our group believes that bystander employees acting under a duty-based framework have an ethical responsibility to report misconduct and harassment to human resources, although we also realize that under a consequentialist framework there may be hesitation from a lack of individual impact. From the perspective of the victims, such efforts surely will be appreciated but may ultimately make little or no difference.
+
+Additionally, our group suggests that making these incidents public can put a lot of pressure on shareholders, forcing them to keep company leadership accountable to their actions, as was the case with the resignation of Travis Kalanick. [4] As more female employees come forward with credible accusations of sexism in the workplace, they raise a great deal of awareness for the issue in the tech industry. Companies may be more perceptive of the issue and make attempts to prevent sexism in the workplace in the future. Ideally, this will lead to more company-wide discussions about the issue and a change in employee attitude. On the other hand, fewer women may pursue a job at a technology company because of these incidents. Women currently in tech may feel more isolated and the toxic behavior toward female employees may increase.
+
+
+###### [1]  Wilheim, Alex, and Tsotsis, Alexia. Julie Ann Hovarth Describes Sexism and Intimidation Behind her GitHub Exit, TechCrunch, March 15, 2014.
+
+###### [2]  Fowler, Susan. Reflecting on One Very Strange Year at Uber, February 19, 2017.
+
+###### [3]  Vertino, Amy. I am an Uber Survivor, Medium, February 24, 2017.
+
+###### [4]  https://www.nytimes.com/2017/06/21/technology/uber-ceo-travis-kalanick.html
 
 ### Blog Post #3
 
