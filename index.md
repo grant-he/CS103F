@@ -22,11 +22,22 @@ Salutations! We are Three of Four, originally known as Group Four. In the follow
 
 ### Blog Post #5
 
-###### Coming Soon! (February 22, 2019)
+##### February 22, 2019
 
 ![2/22/2019 Photo](https://raw.githubusercontent.com/grant-he/CS103F/master/Images/Blog_Post_5_Compressed.png)
 
-###### *From left to right, the photo shows Shray Mittal, Shailen Patel, and Grant He.* 
+###### *From left to right, the photo shows Shray Mittal, Shailen Patel, and Grant He.*
+
+More than thirty years since the Challenger Space Shuttle shocked millions around the nation as its boosters fatally disintegrated a minute into its launch, our group reflects upon the ethical considerations that led to the tragic demise of all seven astronauts aboard. [1] As revelatory information later exposed, NASA and Solid Rocket Booster manufacturer Thiokol had been forewarned about the potential for disaster due to weaknesses in Challenger’s O-rings. Despite repeated warnings, including Bob Ebeling’s email urgently titled “Help!” and hours of a tense conference call between NASA and Thiokol, NASA officials voted “go,” [2] In our opinion, the Thiokol engineers did their due diligence in making sure the decision-making authority was informed of the danger. Especially when the stakes are so high, people in authority have an ethical responsibility to ensure that their current course of action acts upon as little room for error as possible. And by extension, these individuals should defer to those with greater technical expertise where safety is concerned.
+
+Roger Boisjoly, one of the first whistleblowers at Thiokol, received a great deal of hate from his colleagues for voicing his concerns. Boisjoly’s coworkers “made life a living hell on a day-to-day basis.” [3] Our group believes that many of his colleagues chose to stay quiet rather than defend him because of a natural tendency for people to obey authority. These people were afraid of putting themselves in a career-compromising situation, so to them it was simpler to remain silent rather than challenge authority. We believe that in a duty-based framework, the engineers have an ethical imperative to speak out against the ignorant actions of the NASA officials. However, we also understand that there are consequentialist concerns over the negative backlash from speaking out, seeing as the men who testified about the failures of Thiokol and NASA became known as “the five lepers,” and were isolated in their jobs.
+
+Another ethical question to scrutinize is why NASA was so determined to launch the day it did—on January 28. Despite emphatic recommendations made by several Thiokol engineers, NASA approved liftoff. If the launch had been delayed without incident, it is likely that the correct ethical decision-making would have been overlooked. Instead of receiving acclamation for safely executing a launch, the outstanding figures of authority would probably suffer heat for requiring two delays. President Ronald Reagan was due to discuss the space program in his State of the Union address that night. [2] A delay in the launch would reflect poorly on the Reagan administration and would likely result in significant career consequences for those in charge.
+
+###### [1]  Zak, Dan. 'We've lost 'em, God bless 'em': What it was like to witness the Challenger disaster, The Washington Post, January 28, 2016.
+###### [2]  Kaplan, Sarah. Finally free from guilt over Challenger disaster, an engineer dies in peace, The Washington Post, March 22, 2016.
+###### [3]  Lewis, Linda. Remembering Roger Boisjolu, Challenger disaster whistleblower (1938-2012), Whistleblower Support Fund, February 12, 2012.
+
 
 ### Blog Post #4
 
@@ -34,14 +45,13 @@ Salutations! We are Three of Four, originally known as Group Four. In the follow
 
 ![2/15/2019 Photo](https://raw.githubusercontent.com/grant-he/CS103F/master/Images/Blog_Post_4_Compressed.png)
 
-###### *From left to right, the photo shows Shray Mittal, Grant He, and Shailen Patel.* 
+###### *From left to right, the photo shows Shray Mittal, Grant He, and Shailen Patel.*
 
 The recent string of female voices that shed light on the misogynistic cultures at the GitHub and Uber workplaces reveal that these unwelcoming environments often stem from the corrupting influence of founders and executive officers, specifically through their gravely egregious actions and enabling negligence. A rather uncomfortable narrative was detailed by Julie Ann Hovarth in her interview with TechCrunch, to whom she described several tense interactions with one of the co-founders of GitHub and his wife. [1] Furthermore, Hovarth alleged that throughout her last few months at GitHub, she was bullied into leaving and faced constant harassment—particularly from the co-founder’s wife. Hovarth dutifully reported the misconduct to human resources, but found that the department was either unwilling or unable to help her. A similar pattern has been said about the environment at Uber, in which the harassment from “high performing” employees were chiefly protected by the former-CEO Travis Kalanick. The culture is rooted in the highest levels of management. If these figures are tolerant of sexism and harassment, it can be difficult to hold them—and other misbehaving employees—accountable for their actions.
 
 Employees often look to management to gauge what behavior is acceptable, so its systemic neglect can naturally court a substantial number of unaffected male employees to allow such a toxic work environment to fester. The invariable exoneration of these “high performing” individuals paves the way for their continued ascension up the corporate ladder—thereby cultivating more influence in the company and its culture whilst deteriorating it as well. [2] [3] Our group believes that bystander employees acting under a duty-based framework have an ethical responsibility to report misconduct and harassment to human resources, although we also realize that under a consequentialist framework there may be hesitation from a lack of individual impact. From the perspective of the victims, such efforts surely will be appreciated but may ultimately make little or no difference.
 
 Additionally, our group suggests that making these incidents public can put a lot of pressure on shareholders, forcing them to keep company leadership accountable to their actions, as was the case with the resignation of Travis Kalanick. [4] As more female employees come forward with credible accusations of sexism in the workplace, they raise a great deal of awareness for the issue in the tech industry. Companies may be more perceptive of the issue and make attempts to prevent sexism in the workplace in the future. Ideally, this will lead to more company-wide discussions about the issue and affect a change in employee attitude. On the other hand, fewer women may pursue a job at a technology company because of these incidents. Women currently in tech may feel more isolated and the toxic behavior toward female employees may increase.
-
 
 ###### [1]  Wilheim, Alex, and Tsotsis, Alexia. Julie Ann Hovarth Describes Sexism and Intimidation Behind her GitHub Exit, TechCrunch, March 15, 2014.
 
@@ -50,6 +60,7 @@ Additionally, our group suggests that making these incidents public can put a lo
 ###### [3]  Vertino, Amy. I am an Uber Survivor, Medium, February 24, 2017.
 
 ###### [4]  Isaac, Mike. “Uber Founder Travis Kalanick Resigns as C.E.O.” New York Times. June 21, 2017.
+
 
 ### Blog Post #3
 
@@ -64,6 +75,7 @@ The actions undertaken by all three group members in this scenario are understan
 This incident negatively affects the dynamics among the team members. The group became significantly more unproductive when Bob began rewriting already completed code, especially under the possibility of him working on a separate aspect of the project. The individuals may be less inclined to work with each other in the future because of their miscommunication. Even in the event that Bob’s code is of better quality than Alice’s, the group has a dilemma between submitting better quality code and submitting code more representative of the group’s work as a whole. While we believe the group can come to a peaceful resolution, there is considerable potential for lingering resentment.
 
 Our group suggests that Bob should use his own code to understand Alice’s code. In this way, Bob’s code would serve a purpose even if it isn’t ultimately turned in, and he works to redeem his relationship with his team members. Carlos should help Bob learn Alice’s code by evaluating Bob’s code. This would be fair to both parties, because Bob would then be a better student by learning two different methods of writing code that accomplishes the same task, and Alice would not feel as if her hard work is going to waste. Additionally Alice should teach Bob her thought process when she wrote her code in a way that Bob can understand. Alice’s code should be submitted to the master version of the project, because Carlos and herself both understand her code. Bob overstepped his bounds by not communicating his lack of understanding in an effective way, so he must compromise more than Carlos and Alice must.
+
 
 ### Blog Post #2
 
