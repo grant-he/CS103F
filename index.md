@@ -21,7 +21,21 @@ Salutations! We are Three of Four, originally known as Group Four. In the follow
 
 ### Blog Post #6
 
-##### Coming Soon - March 1, 2019!
+##### March 1, 2019
+
+![3/1/2019 Photo](https://raw.githubusercontent.com/grant-he/CS103F/master/Images/Blog_Post_6_Compressed.png)
+
+###### *From left to right, the photo shows Shailen Patel, Shray Mittal, and Grant He.*
+
+The widespread allegations that deprecate Amazon’s work culture, particularly in the stories of management treating its employees like “robots,” illustrate the company’s pattern of destructive and amoral behavior. [1] Companies have an obligation to ensure that their work environments are inclusive to all workers, yet Amazon continually violates these social responsibilities by monitoring employees with its patented wristband. Furthermore, the company’s quest for optimizing productivity via micromanagement has led to active infringement upon basic human privacy. If the performance of an employee is poor, this would become evident when looking at his or her productivity—a simple job which consequently nullifies the effective gains of excessive monitoring. While employees undeniably bear the responsibility to work productively while on the clock, our group believes that Amazon’s solution to this real problem of time theft is heavy-handed and a far-reaching invasion of privacy—a far cry from any indication of ethical leadership.
+
+Under a duty-based ethical framework, Amazon is obliged to provide a healthy work environment for their factory workers. Moreover, as a large corporation which receives an exorbitant sum of government subsidies, Amazon is compelled to establish a conscionable level of pay and benefits to their employees such that they can afford basic necessities without needing government assistance. However, about 10% of Amazon employees in Ohio are on SNAP, the modern-day equivalent of food stamps, indicating that a task as essential as affording food is a struggle. [2] This is complicated by the fact that hourly incomes are usually enough to support one person, not multiple, so those attempting to raise a family with only one or two hourly Amazon incomes likely make up a large percentage of those receiving government aid.
+
+The inexhaustible marketplace of consumers around the world enable Amazon to maintain its amoral status quo. As such, the cogs on the colossal Amazon machine will not be interrupted until millions of global customers somehow manage to collectively boycott the company’s services. Another contributing factor to Amazon’s impenetrability is the fact that a large portion of the internet is run on Amazon Web Services. Because so many communities rely on Amazon’s structure for daily business needs, it would be difficult to overhaul Amazon’s operations. The cosmic ascension that Amazon has seen in the past decade has buttressed much of their unethical behaviors. There is simply not much that can be done.
+
+###### [1]  Yeginsu, Ceylan. If Workers Slack Off, the Wristband Will Know. The New York Times, February, 1, 2018.
+###### [2]  Green, Dennis. A new study found that 700 Amazon employees in Ohio are on food stamps. Business Insider, January 15, 2018.
+
 
 ### Blog Post #5
 
