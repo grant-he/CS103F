@@ -23,6 +23,7 @@ Salutations! We are Three of Four, originally known as Group Four. In the follow
 
 ##### Coming Soon! on March 8, 2019
 
+![3/8/2019 Photo](https://raw.githubusercontent.com/grant-he/CS103F/master/Images/Blog_Post_7_Compressed.png)
 
 ### Blog Post #6
 
