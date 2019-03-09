@@ -21,11 +21,23 @@ Salutations! We are Three of Four, originally known as Group Four. In the follow
 
 ### Blog Post #7
 
-##### Coming Soon! on March 8, 2019
+##### March 8, 2019
 
 ![3/8/2019 Photo](https://raw.githubusercontent.com/grant-he/CS103F/master/Images/Blog_Post_7_Compressed.png)
 
 ###### *From left to right, the photo shows Shailen Patel, Shray Mittal, and Grant He.*
+
+As our group dissects the current controversies plaguing YouTube, we preface our analysis by highlighting the significance and urgency of this discussion. As the largest video-sharing platform on the Internet, YouTube and its treatment of users and advertisers set the standard for the entire video hosting industry. YouTube has a responsibility to be transparent with advertisers; at the very least, YouTube should reveal to advertisers what channels are showing their ads and what demographics are watching. Advertisers form YouTube’s main source of income, so in the context of a business, YouTube should aim to provide a valuable service to these patrons. As such, in light of a virtue-based ethical framework, YouTube promises that its users are not exposed to illegal or disturbing content without explicit consent. Showing illegal content is clearly unethical and showing explicit content without prior warning is dangerous, considering the platform is mostly not age-restricted. [1] However, aside from these requirements, YouTube has no ethical responsibility to ensure that content is factual or accurate. YouTube has a right to display and promote whichever videos will generate the most ad revenue. It is the users’ responsibility to fact-check the content they consume.
+
+From the information gathered from various third-party investigations, our group believes that YouTube’s business model has been ethical. They make money by running ads using AdSense, much like many other applications today. [2] User profiles remain anonymous to advertisers, and data is collected only when using Alphabet services. Running ads is a legitimate business model, and YouTube has every right to leverage as much data as they can legally obtain in order to serve ads optimally. As long as user profiles remain anonymous, the business model remains ethically sound.
+
+As our group has iterated before, if a user is uploading videos which contain false facts or conspiracy theories, both the user and YouTube should still be able to make money from advertisers, as long as these videos in question don’t violate YouTube’s legal content policies. [3] Alex Jones is an example of a user who violated these policies. [4] Much of his content targeted specific individuals, so these clear and repeated violations of policies warranted the removal of his content and the deletion of his channel. On the other hand, there are many users that publish false content for entertainment purposes. Satirical channels, such as The Onion, can be considered “fake news” but should not be blocked from reaching advertisers on YouTube. And therein lies the problem. In too many instances, the intent behind disinformation is too grey to be algorithmically deciphered. YouTube shouldn’t have to broadly disincentivize this particular trending subgenre of content.
+
+###### [1]  Brodkin, Jon. YouTube loses advertisers over "wormhole into pediphilia ring", Ars Technica, February 21, 2019.
+###### [2]  Albright, Jonathan. Untrue-Tube: Monetizing Misery and Disinformation, Medium, February 25, 2018.
+###### [3] Fisher, Sara. YouTube Announces Crackdown on Conspiracy Theories, Axios, March 14, 2018.
+###### [4]  Lunden, Ingrid. YouTube removes ads from InfoWars' Alex Jones channel, says it has no plans to freeze or ban it, Tech Crunch, March 4, 2018.
+
 
 ### Blog Post #6
 
