@@ -23,6 +23,8 @@ Salutations! We are Three of Four, originally known as Group Four. In the follow
 
 ##### March 15, 2019
 
+(Coming Soon)
+
 ### Blog Post #7
 
 ##### March 8, 2019
