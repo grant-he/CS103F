@@ -19,6 +19,10 @@ The Three of Four comprises of [Grant He](https://github.com/grant-he/), [Shaile
 
 Salutations! We are Three of Four, originally known as Group Four. In the following space resides our blog, in which we discuss a variety of topics from an ethical point-of-view.
 
+### Blog Post #8
+
+##### March 15, 2019
+
 ### Blog Post #7
 
 ##### March 8, 2019
